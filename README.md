@@ -38,7 +38,7 @@
 
 ## Connect me on
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=#126599)](https://www.linkedin.com/in/shimakura-takanao-455540211/)
+[![linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/shimakura-takanao-455540211/)
 
 [![zenn](https://img.shields.io/badge/zenn-000?style=for-the-badge&logo=zenn&logoColor=FF000)](https://zenn.dev/takanao)
 
