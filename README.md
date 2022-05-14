@@ -2,11 +2,15 @@
 ![Used top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takacube&layout=compact)
 
 ## Skill
-[![ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=Ruby&logoColor=E1306C)]
-[![vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=Vue.js&logoColor=A)]
-[![python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=A)]
-[![javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=Javascript&logoColor=A)]
-[![linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux&logoColor=)]
+[![ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=Ruby&logoColor=E1306C)]()
+
+[![vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=Vue.js&logoColor=A)]()
+
+[![python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=A)]()
+
+[![javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=Javascript&logoColor=A)]()
+
+[![linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux&logoColor=)]()
 
 ## Connect me on
 
