@@ -17,6 +17,8 @@
 
 [![vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=Vue.js&logoColor=A)]()
 
+[![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=React&logoColor=FF000)]()
+
 [![linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux&logoColor=)]()
 
 [![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker&logoColor=)]()
@@ -25,7 +27,12 @@
 
 [![MySQL](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql&logoColor=)]()
 
-[![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask&logoColor=FF000)]()
+[![c](https://img.shields.io/badge/c%20languae-000?style=for-the-badge&logo=c&logoColor=FF000)]()
+
+[![GAS](https://img.shields.io/badge/GAS-000?style=for-the-badge&logo=google&logoColor=FF000)]()
+
+
+
 
 
 
