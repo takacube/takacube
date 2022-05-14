@@ -1,7 +1,7 @@
 <!--![takacube's GitHub Stats](https://github-readme-stats.vercel.app/api?username=takacube&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true)-->
 ![Used top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takacube&layout=compact)
-https://github-readme-stats.vercel.app/api?username=takacube&show_icons=true&theme=dark&count_private=true&include_all_commits=true
-## Skill
+![profile](https://github-readme-stats.vercel.app/api?username=takacube&show_icons=true&theme=dark&count_private=true&include_all_commits=true
+## Skill)
 
 [![ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=Ruby&logoColor=E1306C)]()
 
