@@ -3,13 +3,9 @@
 
 ## Skill)
 
-[![ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=Ruby&logoColor=E1306C)]()
+[![ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=Ruby&logoColor=E1306C)]()  [![RubyOnRails](https://img.shields.io/badge/RubyonRails-000?style=for-the-badge&logo=Rubyonrails&logoColor=FF0000)]()
 
-[![RubyOnRails](https://img.shields.io/badge/RubyonRails-000?style=for-the-badge&logo=Rubyonrails&logoColor=FF0000)]()
-
-[![python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=A)]()
-
-[![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask&logoColor=FF000)]()
+[![python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=A)]()  [![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask&logoColor=FF000)]()
 
 [![node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.js&logoColor=FF000)]()
 
