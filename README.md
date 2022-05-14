@@ -1,6 +1,13 @@
 <!--![takacube's GitHub Stats](https://github-readme-stats.vercel.app/api?username=takacube&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true)-->
 ![Used top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takacube&layout=compact)
 
+## Skill
+https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=Ruby&logoColor=E1306C
+https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=Vue.js&logoColor=A
+https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=A
+https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=Javascript&logoColor=A
+https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux&logoColor=
+
 ## Connect me on
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=#126599)](https://www.linkedin.com/in/shimakura-takanao-455540211/)
