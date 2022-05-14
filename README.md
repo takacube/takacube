@@ -40,8 +40,10 @@
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=#126599)](https://www.linkedin.com/in/shimakura-takanao-455540211/)
 
-[![youtube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.linkedin.com/in/shimakura-takanao-455540211/)
+[![zenn](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://img.shields.io/badge/zenn-000?style=for-the-badge&logo=zenn&logoColor=FF000)
 
 [![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/takacube)
 
-[![instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E1306C)](https://www.linkedin.com/in/shimakura-takanao-455540211/)
+[![spotify](https://img.shields.io/badge/spotify-000?style=for-the-badge&logo=Spotify&logoColor=FF000)](https://open.spotify.com/playlist/3gqqIBt4bI8hqH4hJtmyrK?si=bf6f026c6344464e)
+
+
