@@ -2,15 +2,32 @@
 ![Used top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takacube&layout=compact)
 
 ## Skill
+
 [![ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=Ruby&logoColor=E1306C)]()
 
-[![vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=Vue.js&logoColor=A)]()
+[![RubyOnRails](https://img.shields.io/badge/RubyonRails-000?style=for-the-badge&logo=Rubyonrails&logoColor=FF0000)]()
 
 [![python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=A)]()
 
+[![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask&logoColor=FF000)]()
+
+[![node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.js&logoColor=FF000)]()
+
 [![javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=Javascript&logoColor=A)]()
 
+[![vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=Vue.js&logoColor=A)]()
+
 [![linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux&logoColor=)]()
+
+[![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker&logoColor=)]()
+
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git&logoColor=)]()
+
+[![MySQL](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql&logoColor=)]()
+
+[![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask&logoColor=FF000)]()
+
+
 
 ## Connect me on
 
