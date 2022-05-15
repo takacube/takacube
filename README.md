@@ -1,7 +1,7 @@
 <!--![takacube's GitHub Stats](https://github-readme-stats.vercel.app/api?username=takacube&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true)-->
 ![Used top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takacube&layout=compact&theme=dark&langs_count=10&count_private=true&line_height=50&card_width=270)　![profile](https://github-readme-stats.vercel.app/api?username=takacube&show_icons=true&theme=dark&count_private=true&include_all_commits=true&count_private=true&line_height=28&card_width=30)
 
-## Skill)
+## Skill
 
 [![ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=Ruby&logoColor=E1306C)]()    [![RubyOnRails](https://img.shields.io/badge/RubyonRails-000?style=for-the-badge&logo=Rubyonrails&logoColor=FF0000)]()    [![python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=A)]()    [![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask&logoColor=FF000)]()
 
