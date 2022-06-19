@@ -1,5 +1,5 @@
 <!--![takacube's GitHub Stats](https://github-readme-stats.vercel.app/api?username=takacube&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true)-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=takacube&theme=onestar&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=takacube&theme=onestar&column=7&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
