@@ -1,4 +1,8 @@
 <!--![takacube's GitHub Stats](https://github-readme-stats.vercel.app/api?username=takacube&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true)-->
+Hello there 👋
+- I’m currently studying at Tokyo University of Science.
+- I’m currently working on a web application project.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=takacube&theme=onestar&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
