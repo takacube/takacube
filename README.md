@@ -1,7 +1,6 @@
 <!--![takacube's GitHub Stats](https://github-readme-stats.vercel.app/api?username=takacube&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true)-->
 Hello there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=takacube&theme=onestar&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -33,3 +32,5 @@ Hello there 👋
 [![spotify](https://img.shields.io/badge/spotify-000?style=for-the-badge&logo=Spotify&logoColor=FF000)](https://open.spotify.com/playlist/3gqqIBt4bI8hqH4hJtmyrK?si=bf6f026c6344464e)
 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=takacube&theme=onestar&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
