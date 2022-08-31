@@ -27,11 +27,11 @@ Hello there 👋
 
 [![zenn](https://img.shields.io/badge/zenn-000?style=for-the-badge&logo=zenn&logoColor=FF000)](https://zenn.dev/takanao)
 [](
-[![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/takacube)
-
-[![spotify](https://img.shields.io/badge/spotify-000?style=for-the-badge&logo=Spotify&logoColor=FF000)](https://open.spotify.com/playlist/3gqqIBt4bI8hqH4hJtmyrK?si=bf6f026c6344464e)
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=takacube&theme=onestar&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/takacube)\
+\
+[![spotify](https://img.shields.io/badge/spotify-000?style=for-the-badge&logo=Spotify&logoColor=FF000)]\(https://open.spotify.com/playlist/3gqqIBt4bI8hqH4hJtmyrK?si=bf6f026c6344464e)\
+\
+\
+\
+[![trophy](https://github-profile-trophy.vercel.app/?username=takacube&theme=onestar&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-\trophy)\
 )
