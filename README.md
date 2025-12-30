@@ -39,7 +39,6 @@ Software Engineer focused on **product-oriented engineering**.
 
 <!-- Metrics by lecoq.io -->
 ![Metrics](https://metrics.lecoq.io/takacube?template=classic&languages=1&achievements=1&base.indepth=false&base.hireable=false&config.timezone=Asia/Tokyo)
-![Metrics](https://metrics.le)
 
 ---
 
