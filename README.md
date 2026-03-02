@@ -35,13 +35,6 @@ Software Engineer focused on **product-oriented engineering**.
 
 ---
 
-## 📊 GitHub Metrics (Stable)
-
-<!-- Metrics by lecoq.io -->
-![Metrics](https://metrics.lecoq.io/takacube?template=classic&languages=1&achievements=0)
-
----
-
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=takacube&theme=dark&hide_border=true)
