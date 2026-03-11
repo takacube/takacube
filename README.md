@@ -2,7 +2,7 @@
 Hello there 👋
 
 
-Software Engineer focused on **product-oriented engineering**.  
+Product Manager & Software Engineer 
 
 ---
 
